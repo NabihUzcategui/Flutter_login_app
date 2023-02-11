@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class InputDecarations {
+class InputDecorations {
 
   static InputDecoration authInputDecoration({
     required String hintText,
